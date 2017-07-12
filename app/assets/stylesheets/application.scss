@@ -31,8 +31,9 @@ h2 {
 
 .box {
   float: left;
-  width: 42.5%;
+  width: 50%;
   margin-left: 5%;
+  margin-right: 5%;
   margin-top: 80px;
 }
 
@@ -61,7 +62,15 @@ h2 {
 
 .profile {
   float: left;
-  width: 42.5%;
+  width: 50%;
   margin-left: 5%;
+  margin-right: 5%;
   margin-top: 50px;
+}
+
+.tool {
+  float: left;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 80px;
 }
