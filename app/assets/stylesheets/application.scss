@@ -12,10 +12,12 @@
 
 .navbar-brand {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .menu {
 color: #000000;
+font-family: 'Open Sans', sans-serif;
 }
 
 .clear {
@@ -97,7 +99,7 @@ p, a, h5, span {
   float: left;
   margin-left: 5%;
   margin-right: 5%;
-  margin-top: 80px;
+  margin-top: 5%;
 }
 
 .project-image {
@@ -119,4 +121,30 @@ p, a, h5, span {
 
 .tool p {
   text-align: center;
+}
+
+.footer {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  background-color: #f4f4f4;
+  border-top-color: #686565;
+  border-top-width: 1px;
+  border-top-style: solid;
+  padding-top: 15px;
+  margin-top: 5%;
+}
+
+.footer p {
+  text-align: center;
+}
+
+.footer-icons {
+  text-align: center;
+  color: #000000;
+}
+
+.footer-icon {
+  margin: 10px 0;
+  padding: 5px;
+  color: #000000;
 }
