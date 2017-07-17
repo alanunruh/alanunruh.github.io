@@ -97,7 +97,14 @@ p, a, h5, span {
   color: #000000;
 }
 
-.profile {
+.profile, {
+  float: left;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2%;
+}
+
+.about {
   float: left;
   margin-left: 5%;
   margin-right: 5%;
